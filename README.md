@@ -1,4 +1,5 @@
 #Modemate
+
 VibeSwitch - MoodMate App
 
 Welcome to MoodMate! Your friendly little app that listens to your mood and offers quick, positive suggestions 💬✨.
